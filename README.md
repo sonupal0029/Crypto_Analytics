@@ -117,3 +117,7 @@ Check the repository URL and authentication. If the GitHub repository was initia
 ## Disclaimer
 
 This project is for learning and demonstration purposes only. It is not investment advice. Do not make trading decisions based only on model outputs.
+## Live Demo
+
+Try the Crypto Analytics app:
+https://cryptoanalytics-auqswkaxpxzvdeqqyhqkah.streamlit.app/
